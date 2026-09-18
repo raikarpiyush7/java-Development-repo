@@ -15,7 +15,7 @@ public class variables {
 
         boolean isAPerson=true;// two options t or f
         
-        float exp=1.5f;
+        float exp=1.5f;// floating values should end with f
 
 
         System.out.println( "My age is:"+age);// + is used for joining string to the variables
